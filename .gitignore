@@ -1,0 +1,13 @@
+
+bin/
+obj/
+
+.vscode/
+
+
+*.cab
+*.msi
+*.msm
+*.msp
+
+
